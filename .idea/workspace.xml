@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4cfe876-89e1-4124-9b22-93eda52679e9" name="Changes" comment="[fix] 로그아웃을 삭제하는 기능입니다&#10;&#10;ㅁㄴㅇㅁ" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2YA6cWPyr9m0uHWkqgi7DjyUSNI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4cfe876-89e1-4124-9b22-93eda52679e9" name="Changes" comment="" />
+      <created>1699956119079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699956119079</updated>
+    </task>
+    <task id="LOCAL-00001" summary="[feat] 게시판 기능입니다.&#10;&#10;이것은 댓글기능을 위한 게시판 입니다">
+      <option name="closed" value="true" />
+      <created>1699956305631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699956305631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[fix] 로그아웃을 삭제하는 기능입니다&#10;&#10;ㅁㄴㅇㅁ">
+      <option name="closed" value="true" />
+      <created>1699956721273</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699956721273</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[fix] 로그아웃을 삭제하는 기능입니다&#10;&#10;ㅁㄴㅇㅁ">
+      <option name="closed" value="true" />
+      <created>1699956812890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699956812890</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[fix] 로그아웃을 삭제하는 기능입니다&#10;&#10;ㅁㄴㅇㅁ">
+      <option name="closed" value="true" />
+      <created>1699956831601</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699956831601</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[feat] 게시판 기능입니다.&#10;&#10;이것은 댓글기능을 위한 게시판 입니다" />
+    <MESSAGE value="[fix] 로그아웃을 삭제하는 기능입니다&#10;&#10;ㅁㄴㅇㅁ" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fix] 로그아웃을 삭제하는 기능입니다&#10;&#10;ㅁㄴㅇㅁ" />
+  </component>
+</project>
